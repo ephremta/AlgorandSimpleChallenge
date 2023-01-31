@@ -10,7 +10,6 @@ kmd_token = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 # define sandbox values for algod client
 algod_address = "http://localhost:4001"
 algod_token = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-    
 def main() :
     # create KMDClient
     kmd_client = kmd.KMDClient(kmd_token, kmd_address)
