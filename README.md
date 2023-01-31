@@ -1,1 +1,1 @@
-# AlgorandSimpleSetup
+# AlgorandSimpleChallenge
